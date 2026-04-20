@@ -56,5 +56,5 @@ Docker, PostgreSQL, Redis, Supabase
 
 ## Feel free to connect with me :)
 
-- LinkedIn: [https://www.linkedin.com/in/ayushadhikari1/]
+- LinkedIn: https://www.linkedin.com/in/ayushadhikari1/
 - Email: adhikari.ay@northeastern.edu
