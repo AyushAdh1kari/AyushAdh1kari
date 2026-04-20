@@ -33,7 +33,6 @@
 - Interested in **AI systems, multi-agent behavior, and real-world product engineering**
 - Currently building **Simulant**, a multi-agent LLM simulation engine for studying trust, deception, and coordination
 - Experience across **full-stack development, backend systems, and ML workflows**
-- I like building systems that feel **real, scalable, and behaviorally interesting**
 
 ---
 
@@ -53,6 +52,8 @@
 - Built with **Spring Boot, React, PostgreSQL, Docker**
 - Features **authentication, role-based access control, and payment reconciliation**
 
+
+### Feel free to snoop around the repo to find more :)
 ---
 
 ## Tech Stack
