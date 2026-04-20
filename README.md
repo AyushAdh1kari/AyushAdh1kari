@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AyushAdh1kari&label=Profile%20Views&color=ffffff&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AyushAdh1kari&label=Profile%20Views&color=ffffff&style=for-the-badge" alt="Profile Views" />
-  </a>
+ <a href="https://komarev.com/ghpvc/?username=AyushAdh1kari&label=Profile%20Views&color=3a3a3a&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=AyushAdh1kari&label=Profile%20Views&color=3a3a3a&style=for-the-badge" alt="Profile Views" />
+ </a>
   <a href="https://github.com/AyushAdh1kari?tab=followers">
     <img src="https://img.shields.io/github/followers/AyushAdh1kari?style=for-the-badge&color=ffffff&labelColor=111111" alt="followers" />
   </a>
