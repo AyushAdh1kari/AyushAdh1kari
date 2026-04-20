@@ -15,13 +15,13 @@ I'm an incoming Software Engineer Intern @ Fidelity Investments, and have previo
 
 ## Projects I'm currently working on:
 
-### 🧪 Simulant
+### Simulant
 Multi-agent LLM simulation environment for behavioral analysis  
 - Supports multiple providers (OpenAI, Claude, Gemini, etc.)  
 - Reproducible simulations with seed tracking and structured logs  
 - Focused on trust, deception, and reasoning under uncertainty  
 
-### 💳 CryptoJar
+### CryptoJar
 Full-stack crypto payment platform  
 - Converts USD invoices into crypto across 6 blockchains  
 - Built with Spring Boot, React, PostgreSQL, Docker  
