@@ -32,16 +32,13 @@ Full-stack crypto payment platform
 ## Tech Stack
 
 **Languages**  
-Java, Python, TypeScript, JavaScript, SQL  
+Java, Python, TypeScript, JavaScript, C, MySQL, Solidity  
 
 **Frameworks / Tools**  
-React, Next.js, FastAPI, Spring Boot  
+React.js, Next.js, Express.js, Spring Boot, JUnit, PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit
 
-**Data & ML**  
-NumPy, Pandas, scikit-learn, PyTorch  
-
-**Infrastructure**  
-Docker, PostgreSQL, Redis, Supabase  
+**Developer Tools**  
+Node.js, Git, Docker, Maven, IntelliJ, VS Code, Jupyter Notebooks, Supabase, Netlify
 
 ---
 
