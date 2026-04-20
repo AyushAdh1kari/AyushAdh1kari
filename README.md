@@ -53,7 +53,7 @@
 - Features **authentication, role-based access control, and payment reconciliation**
 
 
-### Feel free to snoop around the repo to find more :)
+### Feel free to snoop around my repos to find more :)
 ---
 
 ## Tech Stack
