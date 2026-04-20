@@ -125,9 +125,6 @@
   <a href="mailto:adhikari.ay@northeastern.edu">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
   </a>
-  <a href="https://github.com/AyushAdh1kari">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
 </p>
 
 ---
